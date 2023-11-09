@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\bin\Debug\Declare_and_Initialize_variable.exe.config
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\bin\Debug\Declare_and_Initialize_variable.exe
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\bin\Debug\Declare_and_Initialize_variable.pdb
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\obj\Debug\Declare_and_Initialize_variable.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\obj\Debug\Declare_and_Initialize_variable.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\obj\Debug\Declare_and_Initialize_variable.exe
+D:\Mphasis-B2\Day-4\Declare_and_Initialize_variable\Declare_and_Initialize_variable\obj\Debug\Declare_and_Initialize_variable.pdb
